@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>779DA3E2-91E8-448F-862E-B5E526E64B12</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HybridIOSApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>572AFB3AF4D446B7E72F9B40B0D2383952F5DFBB</key>
+		<string>https://github.com/hollyschinsky/HybridAndroidSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HybridIOSApp/HybridIOSApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>572AFB3AF4D446B7E72F9B40B0D2383952F5DFBB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hollyschinsky/HybridAndroidSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>572AFB3AF4D446B7E72F9B40B0D2383952F5DFBB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>572AFB3AF4D446B7E72F9B40B0D2383952F5DFBB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>github-projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
