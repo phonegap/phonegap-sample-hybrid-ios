@@ -58,13 +58,6 @@
 
 #pragma mark UIApplicationDelegate implementation
 
-/**
- * This is main kick off after the app inits, the views and Settings are setup here. (preferred - iOS4 and up)
- */
-- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSDictionary*)launchOptions
-{
-
-}
 
 // this happens while we are running ( in the background, or from within our own app )
 // only valid if HybridIOSApp-Info.plist specifies a protocol to handle
